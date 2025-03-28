@@ -27,7 +27,7 @@ It analyzes the musical features of songs (like danceability, energy, valence, a
 
 | Select Song | Get Recommendations |
 |-------------|---------------------|
-| ![song selection](images/song_selection_screen.png) | ![recommendations](images/music_recommendation_screen.png) |
+| ![song selection](song_selection_screen.png) | ![recommendations](music_recommendation_screen.png) |
 
 ---
 
