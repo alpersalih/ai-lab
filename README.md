@@ -10,8 +10,9 @@ Here, I explore real-world datasets, build models, test architectures, and dive 
 
 | Project Name                       | Description                               | Techniques / Models Used         |
 |-----------------------------------|-------------------------------------------|----------------------------------|
-| `sentiment-analysis-turkish-tfidf`   | Sentiment analysis on Turkish tweets      | TF-IDF + Logistic Regression     |
+| `sentiment-analysis-turkish-tfidf` | Sentiment analysis on Turkish tweets      | TF-IDF + Logistic Regression     |
 | `handwriting-recognition`         | Digit recognition using MNIST dataset     | CNN + Streamlit Interface        |
+| `spotify-content-based`           | Content-based music recommendation system | Cosine Similarity + Streamlit UI |
 
 ---
 
